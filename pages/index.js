@@ -13,7 +13,7 @@ export const getStaticProps = async () => {
   };
 };
 
-const index = ({ data }) => {
+const Home = ({ data }) => {
   // console.log("data",data);
 
   //   const [data, setdata] = useState([])
@@ -73,4 +73,4 @@ const index = ({ data }) => {
   );
 };
 
-export default index;
+export default Home;
