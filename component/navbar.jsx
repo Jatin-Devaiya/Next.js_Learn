@@ -17,9 +17,6 @@ const Navbar = () => {
         <Link href="/product" className="p-8">
           Product
         </Link>
-        <Link href="/productsss" className="p-8">
-          Just-test
-        </Link>
       </ul>
     </div>
   );
